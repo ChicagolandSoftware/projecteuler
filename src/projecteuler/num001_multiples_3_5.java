@@ -16,3 +16,5 @@ public class num001_multiples_3_5 {
 		System.out.println("Sum of all multiples of 3 and 5 below 1000 is: " + sum);
 	}
 }
+
+
